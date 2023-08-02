@@ -1,2 +1,9 @@
 # WebsiteDownloader
-Download a website and save it to HTML/PDF/Word/etc. Made with Python
+Download a website and save it to Word/etc. Made with Python
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+python -m playwright install
+```
